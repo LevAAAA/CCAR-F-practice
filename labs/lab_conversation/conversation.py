@@ -39,4 +39,5 @@ def say(text):
 say("I bought a jacket 20 days ago.")
 say("Can I return it?")
 say("If I lost the receipt, can I still return it?")
+say("Test")
 
